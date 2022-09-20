@@ -1,1 +1,3 @@
 node_modules
+.prettierignore
+.DS_Store
