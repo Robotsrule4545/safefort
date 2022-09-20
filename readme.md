@@ -1,3 +1,38 @@
+Big f node, npm and bun crashed. biggest F ive taken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ISSUES(ohno)
 
 - The canvas isnt working aaa
@@ -26,3 +61,5 @@ Rapid gamemode(hard, boss comes at night 5+)
 - Harder to research tech
 - Add a better menu.
 - Add music(i want horror boop-y stuff like a symphony of annoying boops)
+
+@StormyBytes i need you
