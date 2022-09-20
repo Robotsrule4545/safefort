@@ -1,3 +1,38 @@
+Big f node, npm and bun crashed. biggest F ive taken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ISSUES(ohno)
 
 - The canvas isnt working aaa
