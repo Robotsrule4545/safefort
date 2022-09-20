@@ -27,4 +27,4 @@ Rapid gamemode(hard, boss comes at night 5+)
 - Add a better menu.
 - Add music(i want horror boop-y stuff like a symphony of annoying boops)
 
-@stormybytes i need you
+@StormyBytes i need you
