@@ -1,0 +1,56 @@
+{
+  "name": "safefort",
+  "version": "1.0.0",
+  "description": "A pixelly survival game.",
+  "scripts": {
+    "start": "electron-forge start",
+    "format": "npx prettier --write .",
+    "check": "npx prettier --check .",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "electron": "electron ."
+  },
+  "keywords": [],
+  "author": "robot0730",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.66",
+    "@electron-forge/maker-deb": "^6.0.0-beta.66",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.66",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.66",
+    "@electron-forge/maker-zip": "^6.0.0-beta.66",
+    "electron": "^20.1.4",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0",
+    "phaser": "^3.60.0-beta.9"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "safefort"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  }
+}
